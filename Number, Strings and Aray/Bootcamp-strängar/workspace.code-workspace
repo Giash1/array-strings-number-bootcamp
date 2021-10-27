@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Bootcamp-Arrayer"
+		},
+		{
+			"path": "..\\Bootcamp-number"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootcamp-Arrayer"
+	}
+}
